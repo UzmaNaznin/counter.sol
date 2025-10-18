@@ -88,16 +88,7 @@ Compile (Solidity Compiler → click “Compile Counter.sol”)
 Deploy (Deploy & Run Transactions → click “Deploy”)
 
 🧾 Deployment Details
-Detail	Information
-Network	(Ethereum / Testnet — specify if known)
-Transaction Hash	0x95bef5b07d204d9b281f6f2425a92c0641b097ff0d13f5fceca87efb7f4fb93d
-Block Number	74315732
-Confirmations	588
-Timestamp	Oct 18, 2025, 12:24:08 PM (UTC +05:30)
-From Address	0xf383831Ae1f71A51212092b87A6CE66258C91B7F
-Contract Address	0xB34ef24B59284CAe1CE44Dfd9D16cb889c8E958C
-Status	✅ Confirmed within ≤ 0.354 seconds
-🧾 License
+contract deploy address: 0xB34ef24B59284CAe1CE44Dfd9D16cb889c8E958C
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
